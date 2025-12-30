@@ -1,0 +1,5 @@
+{
+  "name": "VibeCheck",
+  "description": "A futuristic sentiment analysis dashboard using Gemini AI and React Three Fiber to visualize global vibes through a reactive 3D energy core.",
+  "requestFramePermissions": []
+}
